@@ -1,0 +1,9 @@
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/bin/Debug/netstandard2.0/StringCalculatorKata.deps.json
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/bin/Debug/netstandard2.0/StringCalculatorKata.dll
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/bin/Debug/netstandard2.0/StringCalculatorKata.pdb
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/Debug/netstandard2.0/StringCalculatorKata.csprojAssemblyReference.cache
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/Debug/netstandard2.0/StringCalculatorKata.csproj.CoreCompileInputs.cache
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/Debug/netstandard2.0/StringCalculatorKata.AssemblyInfoInputs.cache
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/Debug/netstandard2.0/StringCalculatorKata.AssemblyInfo.cs
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/Debug/netstandard2.0/StringCalculatorKata.dll
+/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/Debug/netstandard2.0/StringCalculatorKata.pdb
