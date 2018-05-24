@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata.Tests/StringCalculatorKata.Tests.csproj",
+    "projectUniqueName": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata.Tests/StringCalculatorKata.Tests.csproj",
     "projectName": "StringCalculatorKata.Tests",
-    "projectPath": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata.Tests/StringCalculatorKata.Tests.csproj",
-    "outputPath": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata.Tests/obj/",
+    "projectPath": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata.Tests/StringCalculatorKata.Tests.csproj",
+    "outputPath": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata.Tests/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.0": {
         "projectReferences": {
-          "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/StringCalculatorKata.csproj": {
-            "projectPath": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/StringCalculatorKata.csproj"
+          "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata/StringCalculatorKata.csproj": {
+            "projectPath": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata/StringCalculatorKata.csproj"
           }
         }
       }

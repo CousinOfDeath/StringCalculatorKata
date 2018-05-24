@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/StringCalculatorKata.csproj",
+    "projectUniqueName": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata/StringCalculatorKata.csproj",
     "projectName": "StringCalculatorKata",
-    "projectPath": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/StringCalculatorKata.csproj",
-    "outputPath": "/Users/street/RiderProjects/StringCalculatorKata/StringCalculatorKata/obj/",
+    "projectPath": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata/StringCalculatorKata.csproj",
+    "outputPath": "/Users/street/RiderProjects/StringCalculatorKataLocal/StringCalculatorKata/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
