@@ -71,6 +71,18 @@ namespace StringCalculatorKata.Tests
             
             StringAssert.Contains("negatives not allowed: -1,-2", e.Message);
         }
+        
+        [TestCase("1,2,1000", 1003)]
+        [TestCase("10001", 0)]
+        [TestCase("1,2,10001", 3)]
+        public void Add_LargerThan1000_AreIgnoredFromSum(string input, int sum)
+        {
+            var sc = CreateStringCalculator();
+
+            var result = sc.Add(input);
+            
+            Assert.AreEqual(sum, result);
+        }
 
     }
     

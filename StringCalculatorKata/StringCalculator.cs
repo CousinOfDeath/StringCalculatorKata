@@ -28,7 +28,7 @@ namespace StringCalculatorKata
 
             CheckThatNumberIsPositive(num);
             
-            return num;
+            return num <= 1000 ? num : 0;
         }
 
         protected virtual void CheckThatNumberIsPositive(int num)
@@ -69,7 +69,7 @@ namespace StringCalculatorKata
                 throw new ArgumentException($"negatives not allowed: {string.Join(",", negativeNumbers)}");
             }
             
-            return numbersString.Select(int.Parse).Sum();
+            return numbersString.Select(int.Parse).Where(n => n <= 1000).Sum();
         }
 
         protected virtual bool HasMultipleNumers(string numbers)
