@@ -46,8 +46,19 @@ namespace StringCalculatorKata
             {
                 "\n"
             };
-            
-            if (numbers.StartsWith("//"))
+
+            if (numbers.StartsWith("//["))
+            {
+                var delimiterEndIndex = numbers.LastIndexOf("]", StringComparison.InvariantCultureIgnoreCase);
+                var customDelimiter = numbers.Substring(3, delimiterEndIndex - 3);
+                delimiters.Add(customDelimiter);
+
+                var lineBreakIndex = numbers.LastIndexOf("\n", StringComparison.InvariantCultureIgnoreCase) + 1;
+                numbers = numbers.Substring(lineBreakIndex 
+                    , 
+                    numbers.Length - lineBreakIndex);     
+            }
+            else if (numbers.StartsWith("//"))
             {
                 var customDelimiter = numbers.Substring(2, 1);
                 delimiters.Add(customDelimiter);
